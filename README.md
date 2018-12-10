@@ -22,8 +22,6 @@ The first function doesn't take in account the order of the characters so, i.e.,
 
 The second and third functions take in account the order of the characters so, i.e., "AAB" amd "ABA" are not considered duplicates-
 
-**NB** : we suggest to **download the notebook file** because html doesn't work well with the rendering of some latex formulas and pandas DataFrames. 
-
 ## Script and Other files descriptions
 
 1. __`hw4_lib.py`__: 

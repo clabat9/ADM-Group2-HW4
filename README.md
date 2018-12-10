@@ -2,7 +2,7 @@
 #  Part 1) Does basic house information reflect house's description?
 
 
-![alt text](https://www.socialandtech.net/wp-content/uploads/2018/03/Immobiliare.png)
+![alt text](https://www.socialandtech.net/wp-content/uploads/2018/03/Immobiliare.png?style=centerme)
 
 In this assignment we will perform a clustering analysis of house announcements in Rome from Immobiliare.it. 
 
